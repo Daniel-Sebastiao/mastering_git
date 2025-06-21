@@ -1,3 +1,8 @@
 # Mastering Git
-This is a repo, I am using to learn git &amp; Github Workflow.
+This is a __repository__, I am using to learn git &amp; _Github_ Workflow.
+
+
+
+
+
 
